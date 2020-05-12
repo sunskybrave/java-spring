@@ -20,3 +20,6 @@ https://baijiahao.baidu.com/s?id=1603874060680405968&wfr=spider&for=pc
 
 c3p0连接池
 https://blog.csdn.net/hanshangzhi/article/details/71856033
+
+编译时出现的一些问题
+https://blog.csdn.net/fancy_track/article/details/94550491
