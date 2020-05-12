@@ -21,5 +21,10 @@ https://baijiahao.baidu.com/s?id=1603874060680405968&wfr=spider&for=pc
 c3p0连接池
 https://blog.csdn.net/hanshangzhi/article/details/71856033
 
+需要注意xml文件中的jdbc_url中的&需要转义
+mysql jdbc url样例如下：
+jdbc:mysql://localhost:3306/test?user=root&amp;password=&amp;useUnicode=true&amp;characterEncoding=gbk
+&amp;autoReconnect=true&amp;failOverReadOnly=false
+
 编译时出现的一些问题
 https://blog.csdn.net/fancy_track/article/details/94550491
