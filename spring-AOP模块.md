@@ -8,3 +8,10 @@ Aop： aspect object programming 面向切面编程
 功能： 让关注点代码与业务代码分离！
 面向切面编程就是指： 对很多功能都有的重复的代码抽取，再在运行的时候往业务方法上动态植入“切面类代码”。
 关注点：
+
+遇到的一个问题
+//import org.junit.After;
+//import org.junit.Before;
+import org.aspectj.lang.annotation.Before;
+import org.aspectj.lang.annotation.After;
+项目开始缺少jar包，自动补全出错
