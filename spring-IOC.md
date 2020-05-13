@@ -1,0 +1,2 @@
+https://segmentfault.com/a/1190000014979704
+Bean的注解配置方式要求实现的类是当前项目开发的；对于源于第三方类库，如JdbcTemplate等要使用XML配置
