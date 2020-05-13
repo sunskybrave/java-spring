@@ -15,3 +15,16 @@ Aop： aspect object programming 面向切面编程
 import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.After;
 项目开始缺少jar包，自动补全出错
+
+@Before增强
+前置增强
+@AfterReturning增强
+后置增强
+@After增强
+相当于Final增强，不管是抛出异常还是正常退出，该增强都会执行
+@Around增强
+环绕增强
+@AfterThrowing增强
+抛出增强
+@DeclareParents
+引介增强
