@@ -28,3 +28,6 @@ jdbc:mysql://localhost:3306/test?user=root&amp;password=&amp;useUnicode=true&amp
 
 编译时出现的一些问题
 https://blog.csdn.net/fancy_track/article/details/94550491
+
+mysql数据库和mysql-connector-java 8.xxx配置的一些问题
+https://www.jianshu.com/p/582ae6d91154
